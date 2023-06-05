@@ -1,1 +1,2 @@
-{{ .Site.Params.color_plugin_html | safeHTML }}
+<meta name="theme-color" content="{{ .Site.Params.color_plugin_html | safeHTML }}" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="{{ .Site.Params.color_plugin_html | safeHTML }}" media="(prefers-color-scheme: dark)">
