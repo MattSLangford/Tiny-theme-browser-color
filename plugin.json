@@ -8,7 +8,12 @@
   "fields": [
     {
       "field": "params.color_plugin_html",
-      "label": "Light Mode Color",
+      "label": "Choose Light Mode Color",
+      "type": "color"
+    },
+    {
+      "field": "params.color_plugin_dark_html",
+      "label": "Choose Dark Mode Color",
       "type": "color"
     }
   ]
