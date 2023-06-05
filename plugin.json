@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "title": "Meta tags",
-  "description": "Add meta tags to your blog.",
+  "title": "Browser Color",
+  "description": "Change browser accent color.",
   "includes": [
-    "plugin_metatags.html"
+    "plugin_color.html"
   ],
   "fields": [
     {
-      "field": "params.metatags_plugin_html",
-      "label": "HTML",
-      "type": "markdown"
+      "field": "params.color_plugin_html",
+      "label": "Light Mode Color",
+      "type": "color"
     }
   ]
 }
