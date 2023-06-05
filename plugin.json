@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "title": "Browser Color",
+  "title": "Tiny theme add-on: Browser Color",
   "description": "Change browser accent color for Tiny theme.",
   "includes": [
     "plugin_color.html"
