@@ -11,3 +11,7 @@
 3. Choose a color for light mode and dark mode (it's ok if they match)
 
 That's it!
+
+### Support Development
+
+[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at [mattlangford.com](https://www.mattlangford.com).
